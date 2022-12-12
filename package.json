@@ -2,7 +2,7 @@
   "name": "magic-memory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Piyushjain20/magic-memory-card-game",
+  "homepage": "https://piyushjain20.github.io/magic-memory-card-game/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
