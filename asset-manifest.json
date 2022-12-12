@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Piyushjain20/magic-memory-card-game/static/css/main.071e9c27.css",
+    "main.js": "/Piyushjain20/magic-memory-card-game/static/js/main.a90438a3.js",
+    "static/js/787.44ae2985.chunk.js": "/Piyushjain20/magic-memory-card-game/static/js/787.44ae2985.chunk.js",
+    "index.html": "/Piyushjain20/magic-memory-card-game/index.html",
+    "main.071e9c27.css.map": "/Piyushjain20/magic-memory-card-game/static/css/main.071e9c27.css.map",
+    "main.a90438a3.js.map": "/Piyushjain20/magic-memory-card-game/static/js/main.a90438a3.js.map",
+    "787.44ae2985.chunk.js.map": "/Piyushjain20/magic-memory-card-game/static/js/787.44ae2985.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.071e9c27.css",
+    "static/js/main.a90438a3.js"
+  ]
+}
