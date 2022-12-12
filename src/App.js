@@ -49,6 +49,7 @@ function App() {
     } else {
       resetTurn();
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [choiceTwo]);
 
   useEffect(() => {
